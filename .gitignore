@@ -1,0 +1,31 @@
+.DS_Store
+*.pyc
+*.swp
+*~
+*.code-workspace
+._*
+*.icloud
+*.pem
+*.ppk
+secring.*
+.Spotlight-V100
+.Trashes
+.apdisk
+.AppleDouble
+.LSOverride
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+.apdisk
+Network Trash Folder
+Temporary Items
+Icon  
+
+
+
